@@ -24,3 +24,6 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
+
+### Test adding image to readme
+![Algorithm schema](./images/schema.jpg)
