@@ -3,7 +3,7 @@ Learning to making a good README.md file
 
 
 ## Table of contents
-* [General info](#general-info)
+* [General info](https://github.com/gurnitha/REAME-FILE)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
