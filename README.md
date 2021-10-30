@@ -4,7 +4,7 @@ Learning to making a good README.md file
 
 ## Table of contents
 * [General info](https://github.com/gurnitha/REAME-FILE)
-* [Technologies](#technologies)
+* [Django Dennis](https://github.com/gurnitha/django-dennis-devsearch)
 * [Setup](#setup)
 
 ## General info
