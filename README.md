@@ -27,3 +27,6 @@ $ npm start
 
 ### Test adding image to readme
 ![Algorithm schema](./images/test-image.jpg)
+
+### Test adding a new image to readme
+![Algorithm schema](./images/signal.jpg)
